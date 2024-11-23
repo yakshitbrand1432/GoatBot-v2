@@ -39,30 +39,7 @@ module.exports = {
 					+ "\n  + {multiple}: you || you guys"
 					+ "\n  + {session}:  session in day"
 					+ "\n\n   Example:"
-					+ "\n    {pn} text ‎┏━━━━━┓
-    प्रेम-बाबू               ✧═•❁𝗪𝗘𝗟𝗖𝗢𝗠𝗘❁•═✧
-┗━━━━━┛
-
-
-𝐇𝐄𝐋𝐋𝐎  𒁍 {userName}
-𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎  {boxName}
-════════════════════════ ❁
-𝐌𝐘 𝐁𝐎𝐒𝐒  𒁍 𝐌𝐑 𝐘𝐀𝐊𝐒𝐇𝐈𝐓 𝐁𝐑𝐀𝐍𝐃 🌺
-════════════════════════ ❁
-FACEBOOK ID LINK 🔗 𒁍 https://www.facebook.com/profile.php?id=100022313642865&mibextid=ZbWKwL
-════════════════════════ ❁
-𝐌𝐎𝐒𝐓 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐘𝐀𝐊𝐒𝐇𝐈𝐓 𝐁𝐑𝐀𝐍𝐃 𝐁𝐎𝐓 
-════════════════════════ ❁
-𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐈𝐍𝐆  𒁍 𝐌𝐑 𝐘𝐀𝐊𝐒𝐇𝐈𝐓 𝐁𝐑𝐀𝐍𝐃  🌺
-════════════════════════ ❁
-
-लत तेरी ही लगी है....................... 🌺
-नशा सरेआम होगा....................... 🌺
-हर लम्हा तुम्हारे लबों पे.................. 🌺
-सिर्फ प्रेम बाबू का ही नाम होगा.........🌺
-आप इस ग्रुप के 43th मेंबर हो...........🐥
-════════════════════════ ❁
-         खाओ पियो और मेरे साथ मस्ती करो 🙂 Hello {userName}, welcome to {boxName}, have a nice day {multiple}"
+					+ "\n    {pn} text Hello {userName}, welcome to {boxName}, have a nice day {multiple}"
 					+ "\n"
 					+ "\n   Reply (phản hồi) or send a message with file with content {pn} file: to add file attachments to welcome message (image, video, audio)"
 					+ "\n\n   Example:"
